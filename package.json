@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Dorcas Emenoge",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -8,7 +9,9 @@
 		"start": "node server.js"
 	},
 	"repository": {
+		"description": "A boilerplate code for the managing packages with npm challenges of freeCodeCamp Backend developemnt and Api certification",
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git",
+		"keywords": ["learning", "devschool", "freecodecamp", "upskill"]
 	}
 }
